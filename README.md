@@ -30,3 +30,21 @@ Using SQLmap on POST requests - http://carnal0wnage.attackresearch.com/2011/03/s
 
 Tim Tomes vulnerable web app - https://github.com/lanmaster53/pwnedhub
 
+Domain Hunter - https://github.com/minisllc/domainhunter
+
+Mod_Rewrite automatic setup for red team work - https://blog.inspired-sec.com/archive/2017/04/17/Mod-Rewrite-Automatic-Setup.html
+
+Capturing network traffic using netsh - https://isc.sans.edu/forums/diary/No+Wireshark+No+TCPDump+No+Problem/19409/
+
+Scanning Active Directory for privileged accounts - https://adsecurity.org/?p=3658
+
+How to use the Windows API to be a better defender - https://www.redcanary.com/blog/windows-technical-deep-dive/
+
+Handy iptables rule to route all traffic to one service - https://superuser.com/questions/440324/iptables-how-to-forward-all-external-ports-to-one-local-port
+
+Port scanning using the windows CLI (ugh, but works) - http://blog.commandlinekungfu.com/2010/04/episode-89-lets-scan-us-some-ports.html
+
+Security Scenario Generator - https://github.com/cliffe/SecGen
+
+Malware Unicorn's RE Malware 101 - https://securedorg.github.io/RE101/
+
